@@ -182,8 +182,8 @@ After creating accounts manually or using the register form:
 
 | Role  | Email             | Password |
 |-------|-------------------|----------|
-| User  | user@cake.com     | 123456   |
-| Admin | admin@cake.com    | 123456   |
+| User  | shruti@cake.com   |shruti@123  |
+| Admin | chavare@cake.com  | shravan  |
 
 > Create these via the Sign Up page or using a tool like Postman/curl.
 
