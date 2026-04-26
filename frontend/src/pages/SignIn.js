@@ -129,7 +129,7 @@ const SignIn = () => {
               )}
             </motion.button>
           </form>
-
+{/*
           <div className="demo-credentials">
             <p className="demo-title">🧪 Demo Credentials</p>
             <div className="demo-grid">
@@ -141,6 +141,7 @@ const SignIn = () => {
               </div>
             </div>
           </div>
+          */}
 
           <p className="auth-footer-text">
             New to Sweet Bakes?{' '}
